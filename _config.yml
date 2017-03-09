@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+timezone: europe/london
+
+webrick:
+  headers:
+    With-Love: From-London
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Barry Postma"
+      category: "General"
