@@ -1,16 +1,21 @@
 theme: jekyll-theme-minimal
 timezone: europe/london
 
+title: "Barry's blog"
+description: "Some thoughts on life and technology"
+show_downloads: false
+google_analytics: UA-3047863-7
+
 webrick:
   headers:
     With-Love: From-London
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      author: "Barry Postma"
-      category: "General"
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "default"
+#      author: "Barry Postma"
+#      category: "General"

@@ -1,5 +1,6 @@
 ---
-title: Microsoftie switches to a MacBook
+title: "Microsoftie switches to a MacBook"
+tags: apple mac osx windows
 ---
 
 ## Some background
