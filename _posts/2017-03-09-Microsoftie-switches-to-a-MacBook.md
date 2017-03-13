@@ -26,6 +26,9 @@ The [charge-only USB-C cable](http://www.apple.com/shop/question/answers/product
 
 The keyboard is nice. It has a gentle click on start and end of a travel, but the return key could be horizontally aligned with shift, to reduce finger stretching. The keyboard backlighting looks smooth, but there was not budget left to give the Caps-lock key a stylish colour when turned on.
 
+![http://www.macstroke.com/2955/basic-mac-os-x-keyboard-shortcuts]({{ site.url }}/assets/images/20170309/caps-lock-key.jpg)
+*[source](http://www.macstroke.com/2955/basic-mac-os-x-keyboard-shortcuts)*
+
 ### Starting up
 The [OOBE](https://en.wikipedia.org/wiki/Out-of-box_experience) is nice. There was no [tasteful](https://soundcloud.com/yungterra/startupdmg) start-up sound and the first touch on the touchpad is soft and smooth the way only MacBooks have achieved. After setting up my account I expect to click on my profile picture to enter the password. Wrong. Apple's design talent has decided that you need to explicitly click on your name underneath, in order to show the password box. When a first attempt at my password failed as I only typed on this new keyboard for the first time, I was already annoyed by the 'no-shaking' input box. Tastes differ, especially in design, but I felt childishly patronised by this form of [skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism).
 
