@@ -6,6 +6,9 @@ description: "Some thoughts on life and technology"
 show_downloads: false
 google_analytics: UA-3047863-7
 
+paginate: 3
+paginate_path: "/blog/:num/"
+
 webrick:
   headers:
     With-Love: From-London

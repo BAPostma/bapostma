@@ -21,6 +21,9 @@ Apple has set a high bar for the experience and design, as we all know with thei
 The box looks nice and feels sturdy, but one wonders why you can't get the *apple out of the box* without flipping the whole box over. Was it such a design problem to add a little hole where you can get your finger underneath the device?
 The [charge-only USB-C cable](http://www.apple.com/shop/question/answers/product/MLL82AM/A/is-this-a-thunderbolt-3-cable-or-just-a-usbc-cable/QT4CFYH92TCAK2242) is nicely rolled up like a snake and placed under the device. Putting that back after unrolling it, is an almost impossible job. As there's no other space or cavity in the box, you're going to have to carry that around.
 
+![https://gtrusted.com/review/13-inch-macbook-pro-no-touch-bar-late-2016]({{ site.url }}/assets/images/20170309/box-contents-cable.jpg)
+*[source](https://gtrusted.com/review/13-inch-macbook-pro-no-touch-bar-late-2016)*
+
 The keyboard is nice. It has a gentle click on start and end of a travel, but the return key could be horizontally aligned with shift, to reduce finger stretching. The keyboard backlighting looks smooth, but there was not budget left to give the Caps-lock key a stylish colour when turned on.
 
 ### Starting up
