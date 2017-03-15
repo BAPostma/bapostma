@@ -3,7 +3,6 @@ title: "Microsoftie switches to a MacBook"
 tags: apple mac osx windows
 ---
 
-## Some background
 As a software engineer that has worked almost exclusively with Microsoft technology (C#, .NET, Windows Server) and with occasional exposure to Linux environments - I've never refrained from critisizing products that were not in my day-to-day workspace.
 
 Many around me have had their moment of joy when I told them that I was given a MacBook Pro in my new job, and that we're using Google G-Suite instead of Office and Exchange. The latter I'll leave for a future post (as Google probably [already knows](https://www.theguardian.com/technology/2014/apr/15/gmail-scans-all-emails-new-google-terms-clarify)).

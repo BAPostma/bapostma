@@ -3,7 +3,8 @@
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
-_On {{ post.date }} by {{ post.author }}_
+_On {{ post.date }} by *{{ post.author }}*_
 > {{ post.excerpt }}
 
+_[Read more...]({{ post.url }})
 {% endfor %}
