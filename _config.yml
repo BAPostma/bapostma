@@ -13,12 +13,12 @@ webrick:
   headers:
     With-Love: From-London
 
-#defaults:
-#  -
-#    scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      layout: "default"
-#      author: "Barry Postma"
-#      category: "General"
+defaults:
+ -
+   scope:
+     path: ""
+     type: "posts"
+   values:
+     layout: "default"
+     author: "Barry"
+     category: "General"
