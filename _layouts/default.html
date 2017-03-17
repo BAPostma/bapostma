@@ -37,7 +37,7 @@
 
       <h1>{{ page.title | default: "" }}</h1>
       {{ content }}
-      <small>{{ page.date | default: "" }}</small>
+      <small>{{ page.date | prepend: "Written on " | default: "" }}</small>
 
       </section>
       <footer>
