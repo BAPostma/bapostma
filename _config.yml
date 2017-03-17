@@ -21,3 +21,4 @@ defaults:
    values:
      layout: "default"
      author: "Barry"
+     category: "General"

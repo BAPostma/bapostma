@@ -1,5 +1,6 @@
 ---
 title: "Microsoftie switches to a MacBook"
+category: Work
 tags: apple mac osx windows
 ---
 
