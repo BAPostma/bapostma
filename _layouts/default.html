@@ -37,7 +37,7 @@
 
       <h1>{{ page.title | default: "" }}</h1>
       {{ content }}
-      <small>{{ page.date | prepend: "Written on " | default: "" }}</small>
+      <small>{% unless page.date == nil %}{{ page.date | date_to_long_string | prepend: "Written on " }}{% endunless %}</small>
 
       </section>
       <footer>
