@@ -36,8 +36,12 @@
       <section>
 
       <h1>{{ page.title | default: "" }}</h1>
+      <small>
+        {% unless page.date == nil %}
+          {{ page.date | date_to_long_string | prepend: "Written on " }} by {{ page.author }}
+        {% endunless %}
+      </small>
       {{ content }}
-      <small>{% unless page.date == nil %}{{ page.date | date_to_long_string | prepend: "Written on " }}{% endunless %}</small>
 
       </section>
       <footer>
