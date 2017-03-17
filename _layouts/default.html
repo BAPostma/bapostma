@@ -36,12 +36,30 @@
       <section>
 
       <h1>{{ page.title | default: "" }}</h1>
-      <small>
-        {% unless page.date == nil %}
-          {{ page.date | date_to_long_string | prepend: "Written on " }} by {{ page.author }}
-        {% endunless %}
-      </small>
-      {{ content }}
+      {% unless page.date == nil %}
+        <p>
+          <small>
+            {{ page.date | date_to_long_string | prepend: "Written on " }} by {{ page.author }}
+          </small>
+        </p>
+        {{ content }}
+        <hr />
+        <p>
+          <strong>Categories: </strong>
+          <em>
+          {% for category in page.categories %}
+            {{ category | append: " " }}
+          {% endfor %}
+          </em>
+          <br />
+          <strong>Tags: </strong>
+          <em>
+          {% for tag in page.tags %}
+            {{ tag | append: " " }}
+          {% endfor %}
+          </em>
+        </p>
+      {% endunless %}
 
       </section>
       <footer>
