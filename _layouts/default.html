@@ -50,18 +50,10 @@
         <hr />
         <p>
           <strong>Categories: </strong>
-          <em>
-          {% for category in page.categories %}
-            {{ category | append: " " }}
-          {% endfor %}
-          </em>
+          <em>{{ page.categories | array_to_sentence_string }}</em>
           <br />
           <strong>Tags: </strong>
-          <em>
-          {% for tag in page.tags %}
-            {{ tag | append: " " }}
-          {% endfor %}
-          </em>
+          <em>{{ page.tags | array_to_sentence_string }}</em>
         </p>
       {% endunless %}
 
