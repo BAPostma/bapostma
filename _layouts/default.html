@@ -42,7 +42,11 @@
             {{ page.date | date_to_long_string | prepend: "Written on " }} by {{ page.author }}
           </small>
         </p>
-        {{ content }}
+      {% endunless %}
+      
+      {{ content }}
+      
+      {% unless page.date == nil %}
         <hr />
         <p>
           <strong>Categories: </strong>
