@@ -56,7 +56,7 @@ Lastly, on the right hand side of that Dock, there is [some separator](https://w
 ### Multiple windows
 Windows logo key+tab, is the unmatched key combination that enables fast-window switching. It's *MacTernative* Command+tab is a sheer productivity disappointment: it only allows switching between applications, [not their windows](http://apple.stackexchange.com/questions/2718/best-app-to-switch-between-all-open-windows). Within applications you're left with hoping they've implemented a Ctrl+tab or Ctrl+` feature, which may switch between tabs, like Chrome does. Those tabs by the way, can be opened in a Finder window too, something Windows [should've added years ago](http://ejie.me/).
 
-![Finder navigation]({{ site.url }}/assets/images/20170309/finder-naviagtion.png)
+![Finder navigation]({{ site.url }}/assets/images/20170309/finder-navigation.png)
 
 When working with multiple windows in the full-screen mode, the multiple-desktop experience is incredibly efficient. You can switch quickly and very smoothly between the different screens using a three-finger-swipe to the left or right. An overview of the windows is beautifully displayed with a three-finger-swipe up.
 
