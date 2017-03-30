@@ -54,7 +54,7 @@ Lastly, on the right hand side of that Dock, there is [some separator](https://w
 ![Ugly and bended jumplist from the dock]({{ site.url }}/assets/images/20170309/dock-ugly-jump-list.png)
 
 ### Multiple windows
-Windows logo key+tab, is the unmatched key combination that enables fast-window switching. It's *MacTernative* Command+tab is a sheer productivity disappointment: it only allows switching between applications, [not their windows](http://apple.stackexchange.com/questions/2718/best-app-to-switch-between-all-open-windows). Within applications you're left with hoping they've implemented a Ctrl+tab or Ctrl+\` (backtick) feature, which may switch between tabs, like Chrome does. Those tabs by the way, can be opened in a Finder window too, something Windows [should've added years ago](http://ejie.me/).
+Windows logo key+tab, is the unmatched key combination that enables fast-window switching. It's *MacTernative* Command+tab is a sheer productivity disappointment: it only allows switching between applications, [not their windows](http://apple.stackexchange.com/questions/2718/best-app-to-switch-between-all-open-windows). Within applications you're left with hoping they've implemented a Ctrl+tab or Ctrl+``` (backtick) feature, which may switch between tabs, like Chrome does. Those tabs by the way, can be opened in a Finder window too, something Windows [should've added years ago](http://ejie.me/).
 
 ![Finder navigation]({{ site.url }}/assets/images/20170309/finder-navigation.png)
 
