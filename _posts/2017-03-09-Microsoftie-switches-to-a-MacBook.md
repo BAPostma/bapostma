@@ -85,4 +85,6 @@ Forgive the tone of the header, but I expect a computer not to behave like a pho
 # Ending positively - conclusion
 This post has mainly been a braindump of some first observations. My experience with VMWare Fusion, Chrome (which is nice and consistent across platforms), VS Code and the Terminal has so far made me quite productive and I'm very satisfied with the battery life that lasts almost a working day. The latter can potentially be longer, if I were to close my 50+ Chrome tabs, a Virtual Machine and various Docker containers.
 
-I have no doubt I can be productive and grow to like my new workflow. As the [adage](http://www.wiseoldsayings.com/home-sweet-home-quotes/) goes "[Good soup](http://www.dailymail.co.uk/news/article-4257446/Trump-nuts-Campbell-s-soup.html) and a warm kitchen are what make a house a home." But as long as MacOS' user experience is as messy as the new administration, my warm kitchen will remain to be Windows.
+Being a new user to Mac, I'd be happy to hear any feedback with tips or corrections on the above, that would make life easier for all of us.
+
+To finish up, I have no doubt I can be productive and grow to like my new workflow. As the [adage](http://www.wiseoldsayings.com/home-sweet-home-quotes/) goes "[Good soup](http://www.dailymail.co.uk/news/article-4257446/Trump-nuts-Campbell-s-soup.html) and a warm kitchen are what make a house a home." But as long as MacOS' user experience is as messy as the new administration, my warm kitchen will remain to be the one with Windows in it.
