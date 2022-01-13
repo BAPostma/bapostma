@@ -6,6 +6,7 @@
     <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -62,6 +63,7 @@
         <a href="https://uk.linkedin.com/pub/barry-postma/16/4b4/991">
           <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Barry Postma's profile on LinkedIn">
         </a>
+        <a class="github-button" href="https://github.com/BAPostma" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="@BAPostma on GitHub">View Barry on Github</a>
 
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
