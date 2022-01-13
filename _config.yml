@@ -4,6 +4,8 @@ timezone: europe/london
 title: "Barry's blog"
 description: "Some thoughts on life and technology"
 show_downloads: false
+
+personal_homepage: https://www.barrypostma.com
 google_analytics: UA-3047863-7
 
 paginate: 3
