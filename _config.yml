@@ -33,3 +33,6 @@ defaults:
      layout: "default"
      author: "Barry"
      category: "General"
+
+plugins:
+  - jekyll-sitemap
