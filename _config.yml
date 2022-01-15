@@ -3,7 +3,20 @@ timezone: europe/london
 
 title: "Barry's blog"
 description: "Some thoughts on life and technology"
+lang: "en-GB"
 show_downloads: false
+
+# SEO
+tagline: "musings by Barry Postma"
+url: "https://blog.barrypostma.com"
+author:
+  name: Barry Postma
+  url: "https://www.barrypostma.com"
+social:
+  name: Barry Postma
+  links:
+    - https://www.linkedin.com/in/BAPostma
+    - https://github.com/BAPostma
 
 personal_homepage: https://www.barrypostma.com
 google_analytics: UA-3047863-7

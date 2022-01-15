@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+section p a:hover, p a:focus {
+    font-weight: initial;
+    text-decoration: underline;
+}
+
 footer > a {
     display: inline-block;
     vertical-align: text-bottom;
