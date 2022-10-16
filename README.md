@@ -7,6 +7,11 @@ Nothing to find in the readme. Just notes to self on how to run Jekyll.
 bundle
 ```
 
+### Update dependencies
+```
+bundle update
+```
+
 ### Run locally
 ```
 bundle exec jekyll serve

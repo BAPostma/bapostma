@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-timezone: europe/london
+timezone: "Europe/London"
 
 title: "Barry's blog"
 description: "Some thoughts on life and technology"
